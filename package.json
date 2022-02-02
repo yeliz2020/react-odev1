@@ -1,0 +1,24 @@
+{
+    "name": "react-odev1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yeliz2020/react-odev1.git"
+    },
+    "author": "Yeliz İşler",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yeliz2020/react-odev1/issues"
+    },
+    "homepage": "https://github.com/yeliz2020/react-odev1#readme",
+    "dependencies": {
+        "axios": "^0.25.0",
+        "node-fetch": "^3.2.0"
+    }
+}
